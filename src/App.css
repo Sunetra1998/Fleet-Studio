@@ -1,0 +1,27 @@
+.home {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 50px;
+  font-size: 100px;
+
+}
+.btn-primary{
+  height:40px;
+  width:50px;
+  color:white;
+  background-color: rgb(72, 0, 139);
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.search{
+  width:200px;
+  height:30px;
+  border:4px solid rgb(72, 0, 139);
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  font-size: 20px;
+  font-weight: 20px;
+}
+
