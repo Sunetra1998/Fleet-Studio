@@ -1,0 +1,340 @@
+  
+[
+    {
+        "colorcode": "#FF0000",
+        "name": "yellow"
+    },
+    {
+        "colorcode": "#00FFFF",
+        "name": "cyan"
+    },
+    {
+        "colorcode": "#0000FF",
+        "name": "blue"
+    },
+    {
+        "colorcode": "#34282C",
+        "name": "Charcoal"
+    },
+    {
+        "colorcode": "#25383C",
+        "name": "Dark Slate Grey"
+    },
+    {
+        "colorcode": "#3B3131",
+        "name": "Oil"
+    },
+    {
+        "colorcode": "#eeeee",
+        "name": "Black Cat"
+    },
+    {
+        "colorcode": "#463E3F",
+        "name": "Black Eel"
+    },
+    {
+        "colorcode": "#4C4646",
+        "name": "Black Cow"
+    }, {
+        "colorcode": "#504A4B",
+        "name": "Gray Wolf"
+    },
+    {
+        "colorcode": "#5C5858",
+        "name": "Gray Dolphin"
+    },
+    {
+        "colorcode": "#565051 ",
+        "name": "Vampire Gray"
+        
+    },
+    {
+        "colorcode": "#413839",
+        "name": "Black Cat"
+    },
+    {
+        "colorcode": "#3D3C3A",
+        "name": "Iridium"
+    },
+    {
+        "colorcode": "#463E3F",
+        "name": "Black Eel"
+    },
+    {
+        "colorcode": "#D1D0CE",
+        "name": "Gray Goose"
+    },
+    {
+        "colorcode": "#eeeee",
+        "name": "Slate Blue"
+    },
+    {
+        "colorcode": "#737CA1",
+        "name": "blue"
+    },
+    {
+        "colorcode": "#4863A0",
+        "name": "Steel Blue"
+    },
+    {
+        "colorcode": "#2B547E",
+        "name": "Blue Jay"
+    },
+    {
+        "colorcode": "#000080",
+        "name": "Navy Blue"
+    },
+    {
+        "colorcode": "#FF0000",
+        "name": ""
+    },
+    {
+        "colorcode": "#00FFFF",
+        "name": "cyan"
+    },
+    {
+        "colorcode": "#0000FF",
+        "name": "blue"
+    },
+    {
+        "colorcode": "#34282C",
+        "name": "Charcoal"
+    },
+    {
+        "colorcode": "#25383C",
+        "name": "Dark Slate Grey"
+    },
+    {
+        "colorcode": "#3B3131",
+        "name": "Oil"
+    },
+    {
+        "colorcode": "#eeeee",
+        "name": "Black Cat"
+    },
+    {
+        "colorcode": "#463E3F",
+        "name": "Black Eel"
+    },
+    {
+        "colorcode": "#4C4646",
+        "name": "Black Cow"
+    }, {
+        "colorcode": "#504A4B",
+        "name": "Gray Wolf"
+    },
+    {
+        "colorcode": "#5C5858",
+        "name": "Gray Dolphin"
+    },
+    {
+        "colorcode": "#565051 ",
+        "name": "Vampire Gray"
+        
+    },
+    {
+        "colorcode": "#413839",
+        "name": "Black Cat"
+    },
+    {
+        "colorcode": "#3D3C3A",
+        "name": "Iridium"
+    },
+    {
+        "colorcode": "#463E3F",
+        "name": "Black Eel"
+    },
+    {
+        "colorcode": "#D1D0CE",
+        "name": "Gray Goose"
+    },
+    {
+        "colorcode": "#eeeee",
+        "name": "Slate Blue"
+    },
+    {
+        "colorcode": "#737CA1",
+        "name": "blue"
+    },
+    {
+        "colorcode": "#4863A0",
+        "name": "Steel Blue"
+    },
+    {
+        "colorcode": "#2B547E",
+        "name": "Blue Jay"
+    },
+    {
+        "colorcode": "#000080",
+        "name": "Navy Blue"
+    },
+    {
+        "colorcode": "#FF0000",
+        "name": ""
+    },
+    {
+        "colorcode": "#00FFFF",
+        "name": "cyan"
+    },
+    {
+        "colorcode": "#0000FF",
+        "name": "blue"
+    },
+    {
+        "colorcode": "#34282C",
+        "name": "Charcoal"
+    },
+    {
+        "colorcode": "#25383C",
+        "name": "Dark Slate Grey"
+    },
+    {
+        "colorcode": "#3B3131",
+        "name": "Oil"
+    },
+    {
+        "colorcode": "#eeeee",
+        "name": "Black Cat"
+    },
+    {
+        "colorcode": "#463E3F",
+        "name": "Black Eel"
+    },
+    {
+        "colorcode": "#4C4646",
+        "name": "Black Cow"
+    }, {
+        "colorcode": "#504A4B",
+        "name": "Gray Wolf"
+    },
+    {
+        "colorcode": "#5C5858",
+        "name": "Gray Dolphin"
+    },
+    {
+        "colorcode": "#565051 ",
+        "name": "Vampire Gray"
+        
+    },
+    {
+        "colorcode": "#413839",
+        "name": "Black Cat"
+    },
+    {
+        "colorcode": "#3D3C3A",
+        "name": "Iridium"
+    },
+    {
+        "colorcode": "#463E3F",
+        "name": "Black Eel"
+    },
+    {
+        "colorcode": "#D1D0CE",
+        "name": "Gray Goose"
+    },
+    {
+        "colorcode": "#eeeee",
+        "name": "Slate Blue"
+    },
+    {
+        "colorcode": "#737CA1",
+        "name": "blue"
+    },
+    {
+        "colorcode": "#4863A0",
+        "name": "Steel Blue"
+    },
+    {
+        "colorcode": "#2B547E",
+        "name": "Blue Jay"
+    },
+    {
+        "colorcode": "#000080",
+        "name": "Navy Blue"
+    },
+        {
+        "colorcode": "#FF0000",
+        "name": ""
+    },
+    {
+        "colorcode": "#00FFFF",
+        "name": "cyan"
+    },
+    {
+        "colorcode": "#0000FF",
+        "name": "blue"
+    },
+    {
+        "colorcode": "#34282C",
+        "name": "Charcoal"
+    },
+    {
+        "colorcode": "#25383C",
+        "name": "Dark Slate Grey"
+    },
+    {
+        "colorcode": "#3B3131",
+        "name": "Oil"
+    },
+    {
+        "colorcode": "#eeeee",
+        "name": "Black Cat"
+    },
+    {
+        "colorcode": "#463E3F",
+        "name": "Black Eel"
+    },
+    {
+        "colorcode": "#4C4646",
+        "name": "Black Cow"
+    }, {
+        "colorcode": "#504A4B",
+        "name": "Gray Wolf"
+    },
+    {
+        "colorcode": "#5C5858",
+        "name": "Gray Dolphin"
+    },
+    {
+        "colorcode": "#565051 ",
+        "name": "Vampire Gray"
+        
+    },
+    {
+        "colorcode": "#413839",
+        "name": "Black Cat"
+    },
+    {
+        "colorcode": "#3D3C3A",
+        "name": "Iridium"
+    },
+    {
+        "colorcode": "#463E3F",
+        "name": "Black Eel"
+    },
+    {
+        "colorcode": "#D1D0CE",
+        "name": "Gray Goose"
+    },
+    {
+        "colorcode": "#eeeee",
+        "name": "Slate Blue"
+    },
+    {
+        "colorcode": "#737CA1",
+        "name": "blue"
+    },
+    {
+        "colorcode": "#4863A0",
+        "name": "Steel Blue"
+    },
+    {
+        "colorcode": "#2B547E",
+        "name": "Blue Jay"
+    },
+    {
+        "colorcode": "#000080",
+        "name": "Navy Blue"
+    }
+    
+  ]
