@@ -12,7 +12,6 @@ import Color from './components/Color';
 function App() {
   return (
     <Router>
-      
     <Switch>
       <Route exact path="/" component={Home} />
       <Route exact path="/page/" component={Page} />
